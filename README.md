@@ -1,1 +1,1 @@
-# Higher-Lower-Game
+In this game after you run the code it generates two famous personalities and their description and you are gonna choose who is more popular among them and if you guess the correct answer you will score the point and you will move further and your first option the subsequent game is the second option in your previous won games and if fail to guess the correct answer the game will be stopped.
